@@ -51,7 +51,7 @@
 		996BD0C92CB4F6C0007F6C57 /* PBXConflict2 */ = {
 			isa = PBXGroup;
 			children = (
-				996BD0D82CB4F898007F6C57 /* den */,
+				996BD0D92CB4FA12007F6C57 /* bran */,
 				996BD0D02CB4F6C1007F6C57 /* Preview Content */,
 			);
 			path = PBXConflict2;
@@ -65,14 +65,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		996BD0D82CB4F898007F6C57 /* den */ = {
+		996BD0D92CB4FA12007F6C57 /* bran */ = {
 			isa = PBXGroup;
 			children = (
 				996BD0CA2CB4F6C0007F6C57 /* PBXConflict2App.swift */,
 				996BD0CC2CB4F6C0007F6C57 /* ContentView.swift */,
 				996BD0CE2CB4F6C1007F6C57 /* Assets.xcassets */,
 			);
-			path = den;
+			path = bran;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
